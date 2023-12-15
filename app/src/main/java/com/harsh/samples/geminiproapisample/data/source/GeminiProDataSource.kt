@@ -11,6 +11,7 @@ class GeminiProDataSource(
         apiKey = apiKey
     )
 
+    // 1 chat support only, create more if you need
     private val chat = geminiProModel.startChat()
 
     suspend fun generateIndividualResponse(prompt: String): String {

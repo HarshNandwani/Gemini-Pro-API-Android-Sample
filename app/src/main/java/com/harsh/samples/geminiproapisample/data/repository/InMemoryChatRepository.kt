@@ -7,7 +7,7 @@ import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.update
 
 /*
-* Stores chats in memory, it is not persistent
+* This sample stores chats in memory. You can use Room persistence.
 * */
 class InMemoryChatRepository: ChatRepository {
 

@@ -4,9 +4,7 @@ import com.harsh.samples.geminiproapisample.domain.model.ChatMessage
 import kotlinx.coroutines.flow.Flow
 
 /*
-* Currently only supports one chat
-*
-* TODO: Add support for multiple chats?
+* Sample shows implementation of only 1 chat, you can add multiple chats support
 * */
 interface ChatRepository {
     fun saveMessage(chatMessage: ChatMessage)
