@@ -42,6 +42,11 @@ val chat = geminiProModel.startChat()
 val response = chat.sendMessage(message)
 print(response.text)
 ```
-<br> <br>
+<br>
 
 **Note:** If you intend to clone and experiment with the provided sample code, it is necessary to generate an API key in "Google AI Studio." Subsequently, place this key in the local.properties file under the variable name "apiKey".
+<br>
+
+# Contact me :email:
+- LinkedIn: [Harsh Nandwani](https://www.linkedin.com/in/harsh-nandwani/)
+- E-Mail: developer.harsh.nandwani@gmail.com
