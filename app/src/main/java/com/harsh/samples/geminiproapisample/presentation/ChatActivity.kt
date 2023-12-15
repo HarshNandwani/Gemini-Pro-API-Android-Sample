@@ -1,11 +1,11 @@
-package com.harsh.samples.geminiproapisample
+package com.harsh.samples.geminiproapisample.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import com.harsh.samples.geminiproapisample.ui.theme.GeminiProAPISampleTheme
+import com.harsh.samples.geminiproapisample.presentation.theme.GeminiProAPISampleTheme
 
-class MainActivity : ComponentActivity() {
+class ChatActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {

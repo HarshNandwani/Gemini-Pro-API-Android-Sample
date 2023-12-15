@@ -1,4 +1,4 @@
-package com.harsh.samples.geminiproapisample.ui.theme
+package com.harsh.samples.geminiproapisample.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
