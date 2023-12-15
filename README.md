@@ -1,5 +1,9 @@
 This codebase serves as a demonstration of the implementation of Gemini Pro Gen-AI using the "Google AI client SDK".
 
+# Demo
+https://github.com/HarshNandwani/Gemini-Pro-API-Android-Sample/assets/51415845/5fccb8d8-c420-4e28-8643-3f84067eb1a7
+
+
 # Implementation details
 **This sample code repository utilizes Gemini Pro APIs with clean architecture principles, Examine the code to gain insights into the implementation details.**
 
